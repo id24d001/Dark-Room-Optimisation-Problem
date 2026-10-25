@@ -8,7 +8,7 @@ import streamlit as st
 from streamlit_folium import st_folium
 
 AREA_SQKM = 400
-SEED = 39
+SEED = 31
 MARGIN = 60        # Rs per order
 COST_PER_KM = 3    # Rs per km (per order, one way)
 
