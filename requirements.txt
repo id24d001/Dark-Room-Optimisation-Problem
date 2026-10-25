@@ -1,0 +1,8 @@
+streamlit
+numpy
+pandas
+matplotlib
+folium
+streamlit-folium
+pulp==4.1.0
+highspy
